@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\IndianSystemCensusAnalyzer\IndianSystemCensusAnalyzer\bin\Debug\net5.0\IndianSystemCensusAnalyzer.exe
+C:\Users\admin\source\repos\IndianSystemCensusAnalyzer\IndianSystemCensusAnalyzer\bin\Debug\net5.0\IndianSystemCensusAnalyzer.deps.json
+C:\Users\admin\source\repos\IndianSystemCensusAnalyzer\IndianSystemCensusAnalyzer\bin\Debug\net5.0\IndianSystemCensusAnalyzer.runtimeconfig.json
+C:\Users\admin\source\repos\IndianSystemCensusAnalyzer\IndianSystemCensusAnalyzer\bin\Debug\net5.0\IndianSystemCensusAnalyzer.runtimeconfig.dev.json
+C:\Users\admin\source\repos\IndianSystemCensusAnalyzer\IndianSystemCensusAnalyzer\bin\Debug\net5.0\IndianSystemCensusAnalyzer.dll
+C:\Users\admin\source\repos\IndianSystemCensusAnalyzer\IndianSystemCensusAnalyzer\bin\Debug\net5.0\ref\IndianSystemCensusAnalyzer.dll
+C:\Users\admin\source\repos\IndianSystemCensusAnalyzer\IndianSystemCensusAnalyzer\bin\Debug\net5.0\IndianSystemCensusAnalyzer.pdb
+C:\Users\admin\source\repos\IndianSystemCensusAnalyzer\IndianSystemCensusAnalyzer\obj\Debug\net5.0\IndianSystemCensusAnalyzer.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\IndianSystemCensusAnalyzer\IndianSystemCensusAnalyzer\obj\Debug\net5.0\IndianSystemCensusAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\IndianSystemCensusAnalyzer\IndianSystemCensusAnalyzer\obj\Debug\net5.0\IndianSystemCensusAnalyzer.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\IndianSystemCensusAnalyzer\IndianSystemCensusAnalyzer\obj\Debug\net5.0\IndianSystemCensusAnalyzer.AssemblyInfo.cs
+C:\Users\admin\source\repos\IndianSystemCensusAnalyzer\IndianSystemCensusAnalyzer\obj\Debug\net5.0\IndianSystemCensusAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\IndianSystemCensusAnalyzer\IndianSystemCensusAnalyzer\obj\Debug\net5.0\IndianSystemCensusAnalyzer.dll
+C:\Users\admin\source\repos\IndianSystemCensusAnalyzer\IndianSystemCensusAnalyzer\obj\Debug\net5.0\ref\IndianSystemCensusAnalyzer.dll
+C:\Users\admin\source\repos\IndianSystemCensusAnalyzer\IndianSystemCensusAnalyzer\obj\Debug\net5.0\IndianSystemCensusAnalyzer.pdb
+C:\Users\admin\source\repos\IndianSystemCensusAnalyzer\IndianSystemCensusAnalyzer\obj\Debug\net5.0\IndianSystemCensusAnalyzer.genruntimeconfig.cache
